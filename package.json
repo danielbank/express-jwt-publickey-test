@@ -1,0 +1,27 @@
+{
+  "name": "express-jwt-publickey-test",
+  "version": "1.0.0",
+  "description": "Test verifying a token with a private/public key pair.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbank/express-jwt-publickey-test.git"
+  },
+  "keywords": [
+    "express-jwt"
+  ],
+  "author": "Daniel Bank <daniel.p.bank@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbank/express-jwt-publickey-test/issues"
+  },
+  "homepage": "https://github.com/danielbank/express-jwt-publickey-test#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-jwt": "^5.1.0"
+  }
+}
